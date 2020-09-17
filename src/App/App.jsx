@@ -5,6 +5,7 @@ import Footer from './Footer/Footer';
 import Main from './Main/Main';
 
 function App() {
+  const azd;
   return (
     <div className="App">
       <Header />
